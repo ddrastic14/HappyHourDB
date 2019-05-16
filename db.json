@@ -1,6 +1,0 @@
-[
-    {"id":1,"name":"Rec","happyHourStart":"From 4:00 PM","happyHourEnd":"To 7:00 PM","price":"$$","rating":"3 out of 5 stars","address":"512 York Rd Towson, MD 21204","menuItems":"Budlight","itemsPrice":"$5.79"},
-    {"id":2,"name":"Green Turtle","happyHourStart":"From 3:00 PM","happyHourEnd":"To 6:00 PM","price":"$$","rating":"2.5 out of 5 stars","address":"408 York Rd Towson, MD 21204","menuItems":"Miller Lite","itemsPrice":"$5.79"},
-    {"id":3,"name":"Chilis","happyHourStart":"From 3:00 PM","happyHourEnd":"To 7:00 PM","price":"$$","rating":"2.5 out of 5 stars","address":"9615 Deereco Road Timonium, MD 21093","menuItems":"Tequila","itemsPrice":"$5.00"},
-    {"id":4,"name":"World of Beer","happyHourStart":"From 5:00 PM","happyHourEnd":"To 11:00 PM","price":"$$","rating":"4.3 out of 5 stars","address":"125 E Joppa Rd, Towson, MD 21286","menuItems":"Jim Beam","itemsPrice":"$5.00"} 
-]
