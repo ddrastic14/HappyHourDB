@@ -6,7 +6,7 @@
         {"id":4,"name":"World of Beer","happyHourStart":"From 5:00 PM","happyHourEnd":"To 11:00 PM","price":"$$","rating":"4 stars","address":"125 E Joppa Rd, Towson, MD 21286","menuItems":"Jim Beam","itemsPrice":"$5.00"} 
     ],
     "items": [
-        {"restaurantId":1,"restaurantName":"Rec",id":1,"name":"Budlight","price":5.79},
+        {"restaurantId":1,"restaurantName":"Rec","id":1,"name":"Budlight","price":5.79},
         {"restaurantId":2,"restaurantName":"Green Turtle","id":1,"name":"Miller Lite","price":5.79},
         {"restaurantId":3,"restaurantName":"Chilis","id":1,"name":"Tequila","price":5.00},
         {"restaurantId":4,"restaurantName":"World of Beer","id":1,"name":"Jim Beam","price":5.00} 
