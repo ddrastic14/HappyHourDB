@@ -7,9 +7,21 @@
     ],
     "items": [
         {"restaurantId":1,"restaurantName":"Rec","id":1,"name":"Budlight","price":5.79},
+        {"restaurantId":1,"restaurantName":"Rec","id":2,"name":"Rolling Rock","price":9.00},
+        {"restaurantId":1,"restaurantName":"Rec","id":3,"name":"Labatt","price":8.50},
+        {"restaurantId":1,"restaurantName":"Rec","id":4,"name":"Leffe Brune","price":5.79},
         {"restaurantId":2,"restaurantName":"Green Turtle","id":1,"name":"Miller Lite","price":5.79},
+        {"restaurantId":2,"restaurantName":"Green Turtle","id":2,"name":"Bloody Mary","price":5.00},
+        {"restaurantId":2,"restaurantName":"Green Turtle","id":3,"name":"Mimosa","price":5.00},
+        {"restaurantId":2,"restaurantName":"Green Turtle","id":4,"name":"Coors Light","price":3.00}
         {"restaurantId":3,"restaurantName":"Chilis","id":1,"name":"Tequila","price":5.00},
-        {"restaurantId":4,"restaurantName":"World of Beer","id":1,"name":"Jim Beam","price":5.00} 
+        {"restaurantId":3,"restaurantName":"Chilis","id":2,"name":"Jose Cuervo","price":5.00},
+        {"restaurantId":3,"restaurantName":"Chilis","id":3,"name":"1800 Reposado","price":5.00},
+        {"restaurantId":3,"restaurantName":"Chilis","id":4,"name":"Sauza","price":5.00},
+        {"restaurantId":4,"restaurantName":"World of Beer","id":1,"name":"Jim Beam","price":5.00},
+        {"restaurantId":4,"restaurantName":"World of Beer","id":2,"name":"Allagash White","price":4.00},
+        {"restaurantId":4,"restaurantName":"World of Beer","id":3,"name":"Tito's Handmade Vodka","price":5.00},
+        {"restaurantId":4,"restaurantName":"World of Beer","id":4,"name":"National Bohemian","price":3.00}
     ],
     "profile": {
       "name": "ddrastic14"
