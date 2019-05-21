@@ -3,7 +3,8 @@
         {"id":1,"name":"Rec","happyHourStart":"From 4:00 PM","happyHourEnd":"To 7:00 PM","price":"$$","rating":"3 stars","address":"512 York Rd Towson, MD 21204","menuItems":"Budlight","itemsPrice":"$5.79"},
         {"id":2,"name":"Green Turtle","happyHourStart":"From 3:00 PM","happyHourEnd":"To 6:00 PM","price":"$$","rating":"2 stars","address":"408 York Rd Towson, MD 21204","menuItems":"Miller Lite","itemsPrice":"$5.79"},
         {"id":3,"name":"Chilis","happyHourStart":"From 3:00 PM","happyHourEnd":"To 7:00 PM","price":"$$","rating":"2 stars","address":"9615 Deereco Road Timonium, MD 21093","menuItems":"Tequila","itemsPrice":"$5.00"},
-        {"id":4,"name":"World of Beer","happyHourStart":"From 5:00 PM","happyHourEnd":"To 11:00 PM","price":"$$","rating":"4 stars","address":"125 E Joppa Rd, Towson, MD 21286","menuItems":"Jim Beam","itemsPrice":"$5.00"} 
+        {"id":4,"name":"World of Beer","happyHourStart":"From 5:00 PM","happyHourEnd":"To 11:00 PM","price":"$$","rating":"4 stars","address":"125 E Joppa Rd, Towson, MD 21286","menuItems":"Jim Beam","itemsPrice":"$5.00"},
+        {"id":5,"name":"The Point Towson","happyHourStart":"From 11:00 AM","happyHourEnd":"To 7:00 PM","price":"$$","rating":"4 stars","523 York Rd, Towson, MD 21204","menuItems":"Fritz","itemsPrice":"$4.00"}
     ],
     "items": [
         {"restaurantId":1,"restaurantName":"Rec","id":1,"name":"Budlight","price":5.79},
@@ -21,7 +22,11 @@
         {"restaurantId":4,"restaurantName":"World of Beer","id":1,"name":"Jim Beam","price":5.00},
         {"restaurantId":4,"restaurantName":"World of Beer","id":2,"name":"Allagash White","price":4.00},
         {"restaurantId":4,"restaurantName":"World of Beer","id":3,"name":"Tito's Handmade Vodka","price":5.00},
-        {"restaurantId":4,"restaurantName":"World of Beer","id":4,"name":"National Bohemian","price":3.00}
+        {"restaurantId":4,"restaurantName":"World of Beer","id":4,"name":"National Bohemian","price":3.00},
+        {"restaurantId":5,"restaurantName":"The Point Towson","id":1,"name":"Fritz","price":4.00},
+        {"restaurantId":5,"restaurantName":"The Point Towson","id":2,"name":"Invivo","price":4.00},
+        {"restaurantId":5,"restaurantName":"The Point Towson","id":3,"name":"GlenBrook","price":4.00},
+        {"restaurantId":5,"restaurantName":"The Point Towson","id":4,"name":"Serra Da Estrela","price":4.00}
     ],
     "profile": {
       "name": "ddrastic14"
