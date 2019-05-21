@@ -13,7 +13,7 @@
         {"restaurantId":2,"restaurantName":"Green Turtle","id":1,"name":"Miller Lite","price":5.79},
         {"restaurantId":2,"restaurantName":"Green Turtle","id":2,"name":"Bloody Mary","price":5.00},
         {"restaurantId":2,"restaurantName":"Green Turtle","id":3,"name":"Mimosa","price":5.00},
-        {"restaurantId":2,"restaurantName":"Green Turtle","id":4,"name":"Coors Light","price":3.00}
+        {"restaurantId":2,"restaurantName":"Green Turtle","id":4,"name":"Coors Light","price":3.00},
         {"restaurantId":3,"restaurantName":"Chilis","id":1,"name":"Tequila","price":5.00},
         {"restaurantId":3,"restaurantName":"Chilis","id":2,"name":"Jose Cuervo","price":5.00},
         {"restaurantId":3,"restaurantName":"Chilis","id":3,"name":"1800 Reposado","price":5.00},
